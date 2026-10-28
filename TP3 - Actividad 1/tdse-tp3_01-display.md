@@ -1,3 +1,12 @@
+# Valores observados
+
+| Índice | Tarea | NOE | LET [µs] | BCET [µs] | WCET [µs] |
+|---|---|---|---|---|---|
+| 0 | `task_test` | 9830 | 2 | 1 | 38 |
+| 1 | `task_display` | 9830 | 1 | 1 | 410 |
+
+
+
 # Trabajo Práctico: LCD Display (Porting C Code) - System Setup (Statechart - Modeling - C Coding)
 
 **Materia:** Técnicas Digitales / Sistemas Embebidos (TDSE)  
